@@ -1,0 +1,30 @@
+{
+  "name": "fantasysite",
+  "version": "1.0.0",
+  "description": "beginnings of fantasy PL website",
+  "main": "fantasySite01.js",
+  "scripts": {
+    "start": "node fantasySite01.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TioDelMundo/cohort18V2.git"
+  },
+  "keywords": [
+    "PL",
+    "soccer",
+    "fantasy",
+    "express",
+    "github"
+  ],
+  "author": "Jake Butler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TioDelMundo/cohort18V2/issues"
+  },
+  "homepage": "https://github.com/TioDelMundo/cohort18V2#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}

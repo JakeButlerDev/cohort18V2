@@ -1,0 +1,13 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    background-color: black;
+    text-decoration: underline;
+    color: aliceblue;
+}
+
+div {
+    text-align: center;
+}
